@@ -26,5 +26,6 @@ class SubClass extends SuperClass {
     public static void main(String args[]) {
         SubClass s = new SubClass(10, 12);
         System.out.println(s.a);
+        System.out.println(s.add(10));
     }
 }
