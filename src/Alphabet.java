@@ -5,10 +5,6 @@ public class Alphabet {
             w, x, y, z, sum;
 
 
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
-
     public int getSum() {
         sum = a + b + c + d + e + f + g + h + i + j + k + l +
                 m + n + o + p + q + r + s + t + u + v +
